@@ -10,6 +10,8 @@ public class MainClass {
 		System.out.println("Git is awesome!");
 		System.out.println("Git is not awesome!");
 		System.out.println("Git is awesome again!");
+		System.out.println("Conflict?");
+
 		// !!!!!
 
 	}
