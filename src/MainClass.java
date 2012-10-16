@@ -12,6 +12,8 @@ public class MainClass {
 		System.out.println("Git is awesome again!");
 		System.out.println("Conflict?");
 		System.out.println("No Conflict");
+		
+		// Commit I want to revert to
 
 
 		// !!!!!
